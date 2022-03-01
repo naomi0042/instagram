@@ -1,0 +1,33 @@
+.heading{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.logo{
+    height: 70px;
+    width:220px;
+}
+.inpt{
+    background-color: rgb(146, 144, 144);
+    height:30px;
+    margin-left: 40px;
+    width: 65%;
+    outline: 0px;
+    
+}
+#password{
+ margin-top: 10px;
+}
+.input{
+    padding-left:10px;
+}
+.buttonop{
+    background-color:rgb(51, 113, 207);
+    outline: 0px;
+    color:white;
+    margin-top:10px;
+    border: none;
+}
